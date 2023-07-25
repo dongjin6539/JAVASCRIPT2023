@@ -1,5 +1,7 @@
 # JAVASCRIPT2023
 
+<img src="https://github.com/dongjin6539/2023-WEBSTANDARD-SITE/blob/main/readme.png" />
+
 ## JAVASCRIPT   
 - 데이터 저장하기 : https://dongjin6539.github.io/web2023/javascript/javascript01.html   
 - 데이터 출력하기 : https://dongjin6539.github.io/web2023/javascript/javascript02.html   
